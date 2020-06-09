@@ -1,0 +1,37 @@
+[global_config]
+  window_state = maximise
+  borderless = True
+  title_transmit_bg_color = "#888a85"
+  title_receive_bg_color = "#17a8b1"
+  enabled_plugins = TerminalShot, LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler
+  suppress_multiple_term_dialog = True
+[keybindings]
+  rotate_cw = None
+  page_up = <Primary>Up
+  page_down = <Primary>Down
+  group_all = None
+  new_terminator = None
+  insert_number = None
+  insert_padded = None
+[profiles]
+  [[default]]
+    background_color = "#282a36"
+    background_darkness = 0.74
+    cursor_color = "#aaaaaa"
+    font = Fira Code 10
+    foreground_color = "#f8f8f2"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    palette = "#262626:#e356a7:#42e66c:#e4f34a:#9b6bdf:#e64747:#75d7ec:#efa554:#7a7a7a:#ff79c6:#50fa78:#f1fa8c:#bd93f9:#ff5555:#88e9fd:#ffb86c"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]

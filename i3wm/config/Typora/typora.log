@@ -1,0 +1,41 @@
+INFO 6/7/2020, 10:23:06 PM  luanchFromDiffVersion, pre version is undefined
+INFO 6/7/2020, 10:23:06 PM  overwriteThemeFolder
+INFO 6/7/2020, 10:23:06 PM  ------------------start------------------
+INFO 6/7/2020, 10:23:06 PM  typora version: 0.9.89
+DEBUG 6/7/2020, 10:23:06 PM  [ '/usr/share/typora/Typora' ]
+INFO 6/7/2020, 10:23:06 PM  [Raven] instanceKey = c9fb7b4e-9a2f-436e-ba8c-86246d3d7924
+DEBUG 6/7/2020, 10:23:06 PM  app.openFile
+INFO 6/7/2020, 10:23:07 PM  [Raven] userId = a3622f9c-70c7-4434-abab-d23a0eab4829
+INFO 6/7/2020, 10:23:07 PM  [focus] 1
+INFO 6/7/2020, 10:23:07 PM  [RenderProcess 1][Warn] Error: spawn pandoc ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+INFO 6/7/2020, 10:23:28 PM  window.File && (function(){		File.setTheme();	})();
+INFO 6/7/2020, 10:23:30 PM  window.File && (function(){		File.setTheme();	})();
+INFO 6/7/2020, 10:23:32 PM  window.File && (function(){		File.setTheme();	})();
+INFO 6/7/2020, 10:23:33 PM  window.File && (function(){		File.setTheme();	})();
+INFO 6/7/2020, 10:23:34 PM  window.File && (function(){		File.setTheme();	})();
+INFO 6/7/2020, 10:24:24 PM  ----------------before-quit-----------------
+INFO 6/7/2020, 10:24:24 PM  ------------------will-quit------------------
+INFO 6/8/2020, 1:32:41 AM  ------------------start------------------
+INFO 6/8/2020, 1:32:41 AM  typora version: 0.9.89
+DEBUG 6/8/2020, 1:32:41 AM  [
+  '/usr/share/typora/Typora',
+  '/home/neko/Downloads/fontawesome-free-5.13.0-desktop/otfs/README.md'
+]
+DEBUG 6/8/2020, 1:32:41 AM  app.openFile
+INFO 6/8/2020, 1:32:41 AM  addRecentDocument
+INFO 6/8/2020, 1:32:41 AM  [Raven] instanceKey = 1d4d7db0-54b9-4c64-8d6a-49360d88cd3e
+INFO 6/8/2020, 1:32:41 AM  [Raven] userId = a3622f9c-70c7-4434-abab-d23a0eab4829
+INFO 6/8/2020, 1:32:42 AM  [focus] 1
+INFO 6/8/2020, 1:32:42 AM  [blur] 1
+INFO 6/8/2020, 1:32:42 AM  [focus] 1
+INFO 6/8/2020, 1:32:43 AM  [RenderProcess 1][Warn] Error: spawn pandoc ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+INFO 6/8/2020, 1:32:49 AM  [blur] 1
+INFO 6/8/2020, 1:33:00 AM  [focus] 1
+INFO 6/8/2020, 1:33:06 AM  ----------------before-quit-----------------
+INFO 6/8/2020, 1:33:06 AM  ------------------will-quit------------------
